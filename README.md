@@ -46,14 +46,10 @@ This README file provides detailed information on how to use the app effectively
 
 ## Screenshots 📸
 
-> _Screenshots will be added soon._
-
-|                  My Day View                   | All Tasks View |
-| :--------------------------------------------: | :------------: |
-|    ![My Day](screenshots/Screenshot_1.png)     |
-| ![Current Week](screenshots/Screenshot_2.png)  |
-| ![Current Month](screenshots/Screenshot_3.png) |
-|   ![All Tasks](screenshots/Screenshot_4.png)   |
+![My Day](screenshots/Screenshot_1.png)
+![Current Week](screenshots/Screenshot_2.png)
+![Current Month](screenshots/Screenshot_3.png)
+![All Tasks](screenshots/Screenshot_4.png)
 
 ---
 
