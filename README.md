@@ -2,10 +2,6 @@
 
 <img src="img/ico.png" alt="TaskFlow — Productivity App" width="35" height="35">
 
-# TaskFlow — Productivity App 📝
-
-![TaskFlow Banner](https://via.placeholder.com/1200x400?text=TaskFlow+—+Productivity+App)
-
 ## Table of Contents 📚
 
 - [Overview](#overview-)
